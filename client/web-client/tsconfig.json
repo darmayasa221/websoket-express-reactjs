@@ -17,7 +17,7 @@
     "jsx": "react-jsx",
     "jsxImportSource": "@emotion/react",
     // bash url
-    "baseUrl": "./client/web-client/"
+    "baseUrl": "."
   },
-  "include": ["./client/web-client/src"]
+  "include": ["src"]
 }
